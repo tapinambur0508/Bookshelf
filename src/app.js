@@ -7,9 +7,7 @@ const app = express();
 app.use(cors());
 app.use(helmet());
 
-app.get('/', (__, res) => {
-  res.send('Hello World!');
-});
+app.use(require('./routes'));
 
 // eslint-disable-next-line no-unused-vars
 app.use((__, res, ___) => {
