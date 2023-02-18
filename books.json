@@ -1,0 +1,142 @@
+[
+  {
+    "_id": {
+      "$oid": "63f138c662727c81bf809186"
+    },
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee"
+  },
+  {
+    "_id": {
+      "$oid": "63f138d462727c81bf80ad08"
+    },
+    "title": "1984",
+    "author": "George Orwell"
+  },
+  {
+    "_id": {
+      "$oid": "63f138e162727c81bf80c864"
+    },
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen"
+  },
+  {
+    "_id": {
+      "$oid": "63f138ee62727c81bf80e4d3"
+    },
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger"
+  },
+  {
+    "_id": {
+      "$oid": "63f138fd62727c81bf80fd09"
+    },
+    "title": "Wuthering Heights",
+    "author": "Emily Bronte"
+  },
+  {
+    "_id": {
+      "$oid": "63f1390962727c81bf81117e"
+    },
+    "title": "Great Expectations",
+    "author": "Charles Dickens"
+  },
+  {
+    "_id": {
+      "$oid": "63f1391462727c81bf812283"
+    },
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde"
+  },
+  {
+    "_id": {
+      "$oid": "63f1392162727c81bf813696"
+    },
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain"
+  },
+  {
+    "_id": {
+      "$oid": "63f1392c62727c81bf8144b8"
+    },
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck"
+  },
+  {
+    "_id": {
+      "$oid": "63f1393762727c81bf815602"
+    },
+    "title": "Animal Farm",
+    "author": "George Orwell"
+  },
+  {
+    "_id": {
+      "$oid": "63f1394462727c81bf816b16"
+    },
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas"
+  },
+  {
+    "_id": {
+      "$oid": "63f1395262727c81bf817e91"
+    },
+    "title": "Frankenstein",
+    "author": "Mary Shelley"
+  },
+  {
+    "_id": {
+      "$oid": "63f1397762727c81bf81b3f4"
+    },
+    "title": "Jane Eyre",
+    "author": "Charlotte Bronte"
+  },
+  {
+    "_id": {
+      "$oid": "63f1397762727c81bf81b3f5"
+    },
+    "title": "Moby-Dick",
+    "author": "Herman Melville"
+  },
+  {
+    "_id": {
+      "$oid": "63f139aa62727c81bf8200f9"
+    },
+    "title": "Little Women",
+    "author": "Louisa May Alcott"
+  },
+  {
+    "_id": {
+      "$oid": "63f139aa62727c81bf8200fa"
+    },
+    "title": "Lord of the Flies",
+    "author": "William Golding"
+  },
+  {
+    "_id": {
+      "$oid": "63f139aa62727c81bf8200fb"
+    },
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne"
+  },
+  {
+    "_id": {
+      "$oid": "63f139aa62727c81bf8200fc"
+    },
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle"
+  },
+  {
+    "_id": {
+      "$oid": "63f139aa62727c81bf8200fd"
+    },
+    "title": "War and Peace",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "_id": {
+      "$oid": "63f139aa62727c81bf8200fe"
+    },
+    "title": "The Iliad",
+    "author": "Homer"
+  }
+]
